@@ -3,7 +3,7 @@
 Created a client server network that allows multiple people to log on and chat with each other. To log on you need the IP address and the client code.
 The purpose is to learn how networks work and to eventually make board games that are playable online.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tqmFIid2vDk)
 
 # Network Communication
 Used a client-server TCP network with port number 9999
